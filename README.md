@@ -1,5 +1,3 @@
-# PreparingForRecruitment
-
 ## General-info
 🅱🅰🆂🅸🅲 🅹🅰🆅🅰 🆃🅰🆂🅺🆂 for improvement with this language.
 ## JDK VERSION
